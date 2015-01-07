@@ -8,6 +8,6 @@ public class HelloWorld {
 	   }
 
 	   public void getMessage(){
-	      System.out.println("Your Message aaa: " + message);
+	      System.out.println("Your Message : " + message);
 	   }
 	}
